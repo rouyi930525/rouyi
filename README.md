@@ -7,6 +7,7 @@
 ## 課程筆記區
 
 ## 作業連結區
+https://github.com/rouyi930525/rouyi/blob/main/HW1.ipynb
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/  
