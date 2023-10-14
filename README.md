@@ -7,7 +7,7 @@
 ## 課程筆記區
 Task1: https://github.com/rouyi930525/rouyi/blob/main/.ipynb_checkpoints/Task1-checkpoint.ipynb
 ## 作業連結區
-HW1: https://github.com/rouyi930525/rouyi/blob/main/HW1.ipynb
+HW1: https://github.com/rouyi930525/rouyi/blob/main/homework1.ipynb
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/  
