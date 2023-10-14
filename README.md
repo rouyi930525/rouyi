@@ -5,7 +5,7 @@
 系級：科技系二年級  
 
 ## 課程筆記區
-
+Task1: https://github.com/rouyi930525/rouyi/blob/main/.ipynb_checkpoints/Task1-checkpoint.ipynb
 ## 作業連結區
 HW1: https://github.com/rouyi930525/rouyi/blob/main/HW1.ipynb
 
