@@ -13,6 +13,6 @@ HW2: https://github.com/rouyi930525/rouyi/blob/main/homework2-Copy1.ipynb
 
 HW3: https://github.com/rouyi930525/rouyi/blob/main/homework3.ipynb
 
-HW4: https://github.com/rouyi930525/rouyi/blob/main/homework4.ipynb
+HW4: https://github.com/rouyi930525/rouyi/blob/main/homework4.ipynb　Medium: https://reurl.cc/Oj80v3
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/  
