@@ -19,6 +19,7 @@ HW4: https://github.com/rouyi930525/rouyi/blob/main/homework4.ipynb
 Medium: https://reurl.cc/Oj80v3
 
 HW5: https://github.com/rouyi930525/rouyi/blob/main/hw5.ipynb
+Medium: https://reurl.cc/A0580Q
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/  
