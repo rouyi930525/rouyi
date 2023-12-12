@@ -23,3 +23,4 @@ Medium: https://reurl.cc/A0580Q
 
 ## 專題連結區
 Markdown 語法說明：https://markdown.tw/  
+final project: https://github.com/rouyi930525/rouyi/blob/main/final%20project.ipynb
